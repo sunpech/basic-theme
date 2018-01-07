@@ -2,6 +2,8 @@
 
 This is a basic theme using Twitter Bootstrap and FontAwesome.
 
+![Basic Theme](/img/basic-theme.jpg)
+
 ### Resources
 
 * [StartBootstrap Clean Blog](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll)
